@@ -1,12 +1,15 @@
 # Shopping_Apps
 
-If you are an employer/recuiter looking for hiring an android developer, please contact me at satyam.cse17@nituk.ac.in
+
 HIGLIGHTS OF MAJOR TECHNOLOGIES USED:
 1.	A custom-built version of Google’s Volley library allowing it to work with Flipkart’s servers.
 2.	REST-based requests to Amazon AWS servers.
 3.	Firebase Database, Authentication and Push Notifications.
 4.	GSON Library
 5.	Chrome custom tabs
+
+If you are an employer/recuiter looking for hiring an android developer, please contact me at satyam.cse17@nituk.ac.in
+
 
 APP DESCRIPTION: 
 This app allows users to quickly access their favourite shopping sites without having the hassle of installing separate applications. These sites open in chrome custom tabs, thus allowing users to save their passwords with Google Smart Lock. 
