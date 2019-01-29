@@ -1,5 +1,6 @@
 # Shopping_Apps
 
+If you are an employer/recuiter looking for hiring an android developer, please contact me at satyam.cse17@nituk.ac.in
 HIGLIGHTS OF MAJOR TECHNOLOGIES USED:
 1.	A custom-built version of Google’s Volley library allowing it to work with Flipkart’s servers.
 2.	REST-based requests to Amazon AWS servers.
