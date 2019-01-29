@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#149b5f</color>
+    <color name="colorPlay">#0f9c58</color>
+    <color name="colorPrimaryDark">#0a8952</color>
+    <color name="colorAccent">#0a8952</color>
+    <color name="colorSnapdeal">#e10046</color>
+    <color name="colorAmazon">#232f41</color>
+    <color name="colorFlipkart">#2974ef</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorPaytm">#012a70</color>
+    <color name="colorHomeShop18">#ec1b24</color>
+    <color name="colorShopClues">#23a5b8</color>
+</resources>
