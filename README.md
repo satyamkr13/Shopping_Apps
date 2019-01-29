@@ -11,6 +11,8 @@ APP DESCRIPTION:
 This app allows users to quickly access their favourite shopping sites without having the hassle of installing separate applications. These sites open in chrome custom tabs, thus allowing users to save their passwords with Google Smart Lock. 
 They can also use a unified search which connects with Flipkart Affiliate API and Amazon product advertising API simultaneously to find products and their best prices from both marketplaces based on search keywords.
 
+A live working version of this app is available from here: https://play.google.com/store/apps/developer?id=Satyam+Kumar
+
 SECURITY OF API KEYS: API Keys are retrieved during runtime from a Firebase database which is configured to connect with apps having fingerprint same as that of my Google Play Account’s app signing. Since it is impossible for anyone (including me!) to obtain those signing keys, reverse engineering of APK’s to obtain secret API keys of my Flipkart/Amazon account is not possible. However, the only possible way for a hacker to get access to secret API keys is by obtaining access to the Firebase account with which the app connects.
 
 About Flipkart Affiliate API: When making an HTTPS request, developers are required to curl their API Token and Affiliate tag inside headers, for which this app uses a customised version of Google’s Volley library (Please see CustomRequest class in SearchActivity). This project uses Google’s GSON Library for parsing JSON response received from Flipkart’s servers.
