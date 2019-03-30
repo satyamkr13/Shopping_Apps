@@ -8,7 +8,7 @@ HIGLIGHTS OF MAJOR TECHNOLOGIES USED:
 4.	GSON Library
 5.	Chrome custom tabs
 
-If you are an employer/recuiter looking for hiring an android developer, please contact me at satyam.cse17@nituk.ac.in
+If you are an employer/recuiter looking for hiring an android developer intern, please contact me at satyam.cse17@nituk.ac.in
 
 
 APP DESCRIPTION: 
