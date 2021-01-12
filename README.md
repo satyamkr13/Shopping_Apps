@@ -15,7 +15,7 @@
 This app allows users to quickly access their favorite shopping sites without having the hassle of installing separate applications. These sites open in chrome custom tabs, thus allowing users to save their passwords with Google Smart Lock. 
 They can also use a unified search which connects with Flipkart Affiliate API and Amazon product advertising API simultaneously to find products and their best prices from both marketplaces based on search keywords.
 
-A live working version of this app is available from here: https://play.google.com/store/apps/developer?id=Satyam+Kumar
+A live working version of this app is available from here: https://play.google.com/store/apps/details?id=com.instinotices.shoppingapps
 
 ![  ](https://lh3.googleusercontent.com/kK8tg13ae7td6O52QNzIAWw5Ssnz-ZM6XqcPWEh2W27t-IEVRFUvPXuDUq-352vVR1c=w1440-h620-rw)   ![  ](https://lh3.googleusercontent.com/uTv4BXP8NTYTyvCtvSGVDm6_UFNgQrHvVuA0g4Kopno-SJaV4j1XJobnvJPFz6Ze9QQ=w1440-h620-rw)  
 
